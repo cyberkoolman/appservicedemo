@@ -1,0 +1,15 @@
+C:\Projects\Azure\appservicedemo\bin\Debug\netcoreapp2.1\appservicedemo.deps.json
+C:\Projects\Azure\appservicedemo\bin\Debug\netcoreapp2.1\appservicedemo.runtimeconfig.json
+C:\Projects\Azure\appservicedemo\bin\Debug\netcoreapp2.1\appservicedemo.runtimeconfig.dev.json
+C:\Projects\Azure\appservicedemo\bin\Debug\netcoreapp2.1\appservicedemo.dll
+C:\Projects\Azure\appservicedemo\bin\Debug\netcoreapp2.1\appservicedemo.pdb
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.csprojAssemblyReference.cache
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.AssemblyInfoInputs.cache
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.AssemblyInfo.cs
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.csproj.CoreCompileInputs.cache
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.RazorAssemblyInfo.cache
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.RazorAssemblyInfo.cs
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.RazorTargetAssemblyInfo.cache
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.dll
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.pdb
+C:\Projects\Azure\appservicedemo\obj\Debug\netcoreapp2.1\appservicedemo.genruntimeconfig.cache
